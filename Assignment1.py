@@ -39,6 +39,7 @@ rupee = euro * 80
 print(rupee)
 
 
+
 # In[ ]:
 
 
